@@ -1,0 +1,11 @@
+[
+    {
+        "name":"shabid",
+        "age":20,
+        "location":{
+            "city":"Noida",
+            "Sector":128,
+            "country":"India"
+        }
+    }
+]
